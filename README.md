@@ -6,7 +6,9 @@ An Android application demonstrating real-time geolocation retrieval using **Goo
 
 ## 📸 Screenshots
 
-<!-- Place your screenshots or GIFs in a 'docs/screenshots' folder or upload them to GitHub and update the URLs below -->
+<img width="589" height="1280" alt="WhatsApp Image 2026-10-29 at 10 18 33 AM (1)" src="https://github.com/user-attachments/assets/da15d03b-7814-4175-bbc7-187941ff2847" />
+<img width="589" height="1280" alt="WhatsApp Image 2026-10-29 at 10 18 33 AM" src="https://github.com/user-attachments/assets/294ec554-3ad3-4a86-ac42-44d833af06eb" />
+
 
 <p align="center">
   <img src="docs/screenshots/location_map.png" alt="Main Location & Embedded Map View" width="300" />
