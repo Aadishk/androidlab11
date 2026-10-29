@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">exp10map</string>
+    <string name="header_title">Fused Geolocation &amp; Embedded Map</string>
+    <string name="label_latitude">LATITUDE</string>
+    <string name="label_longitude">LONGITUDE</string>
+    <string name="label_accuracy">ACCURACY</string>
+    <string name="placeholder_coord">--.------</string>
+    <string name="placeholder_accuracy">-- m</string>
+    <string name="initial_status">Status: Tap \'Get Location\' to retrieve GPS coordinates.</string>
+    <string name="btn_get_location">Get Location</string>
+    <string name="btn_live_updates">Live Updates</string>
+    <string name="btn_stop_updates">Stop Updates</string>
+    <string name="map_placeholder">Map will display here once location is fetched</string>
+</resources>
